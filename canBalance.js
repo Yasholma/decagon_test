@@ -14,6 +14,7 @@ function canBalance(array) {
             return -1;
         }
     } 
+    let testing  = "test";
     return -1;
 }
 
